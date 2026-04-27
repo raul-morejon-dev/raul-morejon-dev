@@ -4,7 +4,7 @@ Soy técnico en **Desarrollo de Aplicaciones Multiplataforma (DAM)** con formaci
 
 Durante mi periodo de prácticas de formación trabajé principalmente con **C#** y **Blazor**, tecnologías con las que continúo desarrollando proyectos para seguir mejorando mis habilidades.
 
-![foto](https://github.com/raul-morejon/raul-morejon/blob/main/logoraul.png)
+![foto](https://github.com/raul-morejon-dev/raul-morejon-dev/blob/main/logoraul.png)
 
 ---
 
