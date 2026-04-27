@@ -1,16 +1,43 @@
-## Hi there 👋
+# ¡Hola, soy Raúl Morejón! 👋
 
-<!--
-**raul-morejon-dev/raul-morejon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy técnico en **Desarrollo de Aplicaciones Multiplataforma (DAM)** con formación y experiencia práctica en desarrollo de software dentro del ecosistema **.NET**.
 
-Here are some ideas to get you started:
+Durante mi periodo de prácticas de formación trabajé principalmente con **C#** y **Blazor**, tecnologías con las que continúo desarrollando proyectos para seguir mejorando mis habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![foto](https://github.com/raul-morejon/raul-morejon/blob/main/logoraul.png)
+
+---
+
+## 🔧 Tecnologías y Herramientas
+
+* **Lenguajes de programación**: Java, C#, SQL, JavaScript, Python, Kotlin, Dart
+* **Frameworks y tecnologías**: .NET, Blazor, Entity Framework, WinForms
+* **Bases de datos**: Microsoft SQL Server, MySQL, Oracle Database
+* **Herramientas**: GitHub, Visual Studio, VS Code, IntelliJ IDEA
+
+---
+
+## 💻 Formación Práctica
+
+* Formación práctica en desarrollo de aplicaciones con **C#** y **Blazor**
+* Participación en entorno de aprendizaje profesional dentro del ecosistema **.NET**
+* Desarrollo de proyectos personales para continuar reforzando conocimientos técnicos
+
+---
+
+## 📚 Actualmente Aprendiendo y Mejorando
+
+* Desarrollo web con **Blazor**
+* Buenas prácticas y arquitectura en aplicaciones **.NET**
+* Optimización y diseño de bases de datos con **SQL Server**
+
+---
+
+## 📫 ¿Cómo contactarme?
+
+* **LinkedIn**: [linkedin.com/in/raul-morejon-pulido](https://www.linkedin.com/in/raul-morejon-pulido/)
+* **Correo electrónico**: [raulmorejondev@gmail.com](mailto:raulmorejondev@gmail.com)
+
+---
+
+> "Las máquinas serán capaces de hacer todo lo que los humanos pueden hacer." – Alan Turing
