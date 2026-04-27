@@ -3,7 +3,7 @@
 Soy técnico en **Desarrollo de Aplicaciones Multiplataforma (DAM)** con formación y experiencia práctica en desarrollo de software dentro del ecosistema **.NET**.
 
 Durante mi periodo de prácticas de formación trabajé principalmente con **C#** y **Blazor**, tecnologías con las que continúo desarrollando proyectos para seguir mejorando mis habilidades.
-
+ 
 ---
 
 ## 🔧 Tecnologías y Herramientas
